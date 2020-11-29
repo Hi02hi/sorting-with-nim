@@ -1,0 +1,3 @@
+language = "nim"
+run = "nim c -r --threads:on bubble-sort/parallel_bubble.nim 100000"
+#This file is for testing in Repl.it
